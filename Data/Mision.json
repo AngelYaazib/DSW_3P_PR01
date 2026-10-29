@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "string",
+    "Dificultad": "Dif\u00EDcil",
+    "ExperienciaOtorgada": 200,
+    "Completada": false
+  }
+]
