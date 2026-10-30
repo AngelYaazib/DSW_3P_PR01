@@ -29,3 +29,8 @@ app.UseHttpsRedirection();
 app.MapControllers();
 
 app.Run();
+
+//ORM
+//dotnet add package Microsft.EntityFrameworkCore.SqlServer
+//dotnet add package Microsft.EntityFrameworkCore.Design
+//dotnet tool install --global dotnet-ef --version 10.0.*
